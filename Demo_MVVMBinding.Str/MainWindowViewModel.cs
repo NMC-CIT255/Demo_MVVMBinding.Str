@@ -16,7 +16,6 @@ namespace Demo_MVVMBinding
             set { _widget = value; }
         }
 
-
         public MainWindowViewModel()
         {
             Widget = InitializeWidget();

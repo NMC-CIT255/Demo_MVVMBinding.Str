@@ -32,7 +32,7 @@ namespace Demo_MVVMBinding
             }
             else
             {
-                _action("Hello World");
+                _action("parameter is null");
             }
         }
 
